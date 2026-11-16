@@ -1,4 +1,4 @@
-=== YS Order Fields ===
+=== YS | Order Fields ===
 Contributors: ysaintlary
 Tags: woocommerce, checkout, order, custom fields, invoice
 Requires at least: 6.5

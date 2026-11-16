@@ -3,3 +3,11 @@
 parameters:
   excludePaths:
     - lib
+
+  ignoreErrors:
+    -
+      identifier: class.notFound
+      message: '#WC_Order|WC_Data#'
+    -
+      identifier: function.notFound
+      message: '#wc_get_order|woocommerce_register_additional_checkout_field#'
