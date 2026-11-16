@@ -3,7 +3,7 @@
  * Plugin Name:       YS | Order Fields
  * Plugin URI:        https://github.com/ysaintlary/ys-order-fields
  * Description:       Ajoute des champs personnalisés aux commandes WooCommerce, saisis au checkout et consultables/modifiables en administration.
- * Version:           1.0.0
+ * Version: 1.0.1
  * Requires at least: 6.5
  * Requires PHP:      7.4
  * Requires Plugins:  woocommerce
