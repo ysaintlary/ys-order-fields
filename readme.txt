@@ -4,7 +4,7 @@ Tags: woocommerce, checkout, order, custom fields, invoice
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -35,6 +35,18 @@ YS Order Fields permet d'ajouter des champs personnalisés aux commandes WooComm
 4. Activer le plugin
 
 == Changelog ==
+
+= 1.0.1 =
+* Fix - fix: update load_config.sh to support WORDPRESS_TEST_PLUGINS key.
+* Update - chore: configure GitHub release workflow with wp-plugin-base v1.10.15.
+* Update - chore: enable readiness/quality/security packs with PUC exclusions.
+* Add - feat: add email and my-account display.
+* Add - feat: add admin order screen fields.
+* Add - feat: add classic checkout integration.
+* Add - feat: add block checkout integration.
+* Add - feat: add field registry with BT-13 field.
+* Add - feat: scaffold plugin with wp-plugin-base v1.10.0 (local profile).
+
 
 = 1.0.0 =
 * Initial release
