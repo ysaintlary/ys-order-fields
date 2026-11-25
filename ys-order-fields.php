@@ -5,7 +5,7 @@
  * Description:       Ajoute des champs personnalisés aux commandes WooCommerce, saisis au checkout et consultables/modifiables en administration.
  * Version: 1.0.1
  * Requires at least: 6.5
- * Requires PHP:      7.4
+ * Requires PHP:      8.0
  * Requires Plugins:  woocommerce
  * Author:            Yves Saint-Lary
  * Author URI:        https://ysaintlary.com
